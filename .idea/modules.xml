@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bankmodule/bankmodule.iml" filepath="$PROJECT_DIR$/bankmodule/bankmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insurancemodule/insurancemodule.iml" filepath="$PROJECT_DIR$/insurancemodule/insurancemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9modularitydemo.iml" filepath="$PROJECT_DIR$/java9modularitydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overallmodule/overallmodule.iml" filepath="$PROJECT_DIR$/overallmodule/overallmodule.iml" />
+    </modules>
+  </component>
+</project>
